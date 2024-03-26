@@ -1,0 +1,6 @@
+language = "nodejs"
+run = "node index"
+
+[[ports]]
+localPort = 5000
+externalPort = 80
